@@ -10,7 +10,9 @@
     },
     "versionFirst": "4.5.4",
     "uniqCompNum": 8,
-    "versionPublish": "4.5.4"
+    "versionPublish": "4.5.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -424,7 +426,7 @@
             }
           },
           "title3": "Performance Report",
-          "caption3": "Tranform evaluation data into actionable intelligence. Obtain comprehensive reports and insights.",
+          "caption3": "Transform evaluation data into actionable intelligence. Obtain comprehensive reports and insights.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
