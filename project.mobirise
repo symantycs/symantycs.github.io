@@ -375,11 +375,11 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/5b5PThQYPtU",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             }
           },
           "title": "DEMO VIDEO",
